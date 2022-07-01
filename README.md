@@ -1,5 +1,5 @@
 # off-canvas-menu
- This is an off-canvas menu with JavaScript. You can use this component as a header or a full-height container.
+ This is an off-canvas menu built with JavaScript. You can use this component as a header or a full-height container.
  
 <h3>Issues faced & resolution:</h3>
 I did not know how to show the information bar with the button once the page loaded. I was finally able to do this with this piece of code:
